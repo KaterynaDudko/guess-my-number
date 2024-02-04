@@ -20,7 +20,7 @@ This game can be played directly in your web browser, so there's no need for ins
 5. Continue guessing until you correctly identify the secret number.
 6. To play again and reset the game while saving your high score, click the "Again" button.
 
-For a live demo of the game, [click here](https://katerynadudko.github.io/guess-my-number/)..
+For a live demo of the game, [click here](https://katerynadudko.github.io/guess-my-number/).
 
 
 ## Features
